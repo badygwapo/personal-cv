@@ -5,7 +5,7 @@
 **Name:** Badygin I. Sinco  
 **Year Level:** 4th Year  
 **Set/Section:** BSIT 4C  
-**Subject:** [ENTER YOUR SUBJECT HERE]
+**Subject:** BSIT
 
 ## About the Project
 
